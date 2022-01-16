@@ -1,4 +1,4 @@
-package com.bridgelabz.patterns;
+package com.bridgelabz.logicalPrograms;
 
 public class pattern2hollowtriangle 
 {
